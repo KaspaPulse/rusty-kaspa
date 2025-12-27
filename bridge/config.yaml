@@ -41,7 +41,7 @@ instances:
 
   - stratum_port: ":5558"
     min_share_diff: 1024
-    prom_port: ":2118"
+    prom_port: ":2119"
     log_to_file: true
     shares_per_min: 20
 
